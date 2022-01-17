@@ -1,0 +1,22 @@
+PODS:
+  - esim_integration (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - esim_integration (from `.symlinks/plugins/esim_integration/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  esim_integration:
+    :path: ".symlinks/plugins/esim_integration/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  esim_integration: 914f065f643217c96da72ea905a0719d18eb250d
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: ffd7293eb7d5907b54a367fd400872baeef513a5
+
+COCOAPODS: 1.11.2
